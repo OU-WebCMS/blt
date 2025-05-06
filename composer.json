@@ -36,11 +36,11 @@
         "grasmash/yaml-cli": "^3.0.0",
         "grasmash/yaml-expander": "^3.0.2",
         "loophp/phposinfo": "^1.7.1",
-        "symfony/config": "^6",
-        "symfony/console": "^6",
-        "symfony/filesystem": "^6",
-        "symfony/twig-bridge": "^6",
-        "symfony/yaml": "^6"
+        "symfony/config": "^6 || ^7",
+        "symfony/console": "^6 || ^7",
+        "symfony/filesystem": "^6 || ^7",
+        "symfony/twig-bridge": "^6 || ^7",
+        "symfony/yaml": "^6 || ^7"
     },
     "require-dev": {
         "acquia/coding-standards": "^1.0",
