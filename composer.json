@@ -26,7 +26,7 @@
         "acquia/drupal-environment-detector": "^1.5.3",
         "acquia/drupal-recommended-settings": "^1",
         "consolidation/comments": "^1.0",
-        "consolidation/config": "^2.0.0",
+        "consolidation/config": "^2 || ^3",
         "consolidation/robo": "^4",
         "dflydev/dot-access-data": "^3",
         "doctrine/annotations": "^1.10.0",
