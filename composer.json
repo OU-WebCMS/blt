@@ -27,7 +27,7 @@
         "acquia/drupal-recommended-settings": "^1",
         "consolidation/comments": "^1.0",
         "consolidation/config": "^2 || ^3",
-        "consolidation/robo": "^4",
+        "consolidation/robo": "^4 || ^5",
         "dflydev/dot-access-data": "^3",
         "doctrine/annotations": "^1.10.0",
         "drupal/core": "^10.0.0",
