@@ -20,14 +20,14 @@ class InteractHook extends BltTasks {
   /**
    * Sets $this->input.
    */
-  public function setInput(InputInterface $input) {
+  public function setInput(InputInterface $input): void {
     $this->input = $input;
   }
 
   /**
    * Sets $this->output.
    */
-  public function setOutput(OutputInterface $output) {
+  public function setOutput(OutputInterface $output): void {
     $this->output = $output;
   }
 
