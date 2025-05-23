@@ -577,6 +577,7 @@ class DeployCommand extends BltTasks {
       ->directories()
       ->in([$this->deployDocroot,
         "{$this->deployDir}/vendor",
+        "{$this->deployDir}/config",
       ])
       ->name('.git');
     $drush_dir = "{$this->deployDir}/drush";
